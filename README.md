@@ -2,7 +2,7 @@
 - 👀 I’m interested in building softwares & cybersecurity.
 - 🌱 I’m currently learning the newage tehnologies in Software Development & Cybersecurity.
 - 💞️ I’m looking to collaborate on Open Source projects.
-- 📫 How to reach me: https://www.linkedin.com/arafat-devp.
+- 📫 How to reach me: https://www.linkedin.com/in/arafat-devp.
 - ⚡ Fun fact: According to a Kinsta report, 60% of programmers learned to code online.
 
 <!---
